@@ -1,0 +1,19 @@
+{
+  "name": "letme-save.com",
+  "version": "1.0.0",
+  "description": "Saving food is now in your hands!",
+  "author": "Deepesh",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.0"
+  }
+}
